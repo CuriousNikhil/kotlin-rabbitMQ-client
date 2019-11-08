@@ -1,0 +1,2 @@
+include ':app', ':kotlin-mqtt'
+rootProject.name='KotlinMqttApp'
